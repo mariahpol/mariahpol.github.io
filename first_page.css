@@ -10,7 +10,7 @@ h1 {
 .header {
 	height: 80px;
 	padding-top: 20px;
-	background-color: red;
+	background-color: #00c0ef;
 }
 div {
 	text-align: center;
@@ -55,6 +55,6 @@ a:hover {
 }
 .footer {
 	height: 80px;
-	background-color: red;
+	background-color: #00c0ef;
 	padding-top: 20px;
 }
